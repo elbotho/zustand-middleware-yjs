@@ -80,7 +80,7 @@ render(
     if the library is able to support Yjs protocols. This means that, for now,
     support for the awareness protocol is not planned.
       * This does not mean you cannot use awareness in your projects - see the
-        sister project [y-react](joebobmiles/y-react) for an example of using
+        sister project [y-react](https://github.com/joebobmiles/y-react) for an example of using
         awareness without the middleware.
 
 # License
